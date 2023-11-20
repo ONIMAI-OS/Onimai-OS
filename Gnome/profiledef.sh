@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="nyarch-gnome"
-iso_label="NYARCH-GNOME_$(date +%y%m%d)"
-iso_publisher="Nyarch Linux <https://nyarchlinux.moe>"
-iso_application="Nyarchlinux DVD"
+iso_name="onimai-os"
+iso_label="Onimai-OS_$(date +%y%m%d)"
+iso_publisher="Onimai OS <https://onimai.ru>"
+iso_application="Onimai OS"
 iso_version="$(date +%y%m%d)"
 install_dir="arch"
 buildmodes=('iso')
