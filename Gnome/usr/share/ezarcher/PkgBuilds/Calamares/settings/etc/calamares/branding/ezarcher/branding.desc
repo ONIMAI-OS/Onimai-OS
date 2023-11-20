@@ -123,13 +123,13 @@ navigation: widget
 # are set to "true" (they can also be overridden).
 strings:
     productName:         "@{NAME}"
-    shortProductName:    ezarcher
-    version:             2022
-    shortVersion:        2022
-    versionedName:       ezarcher Linux
-    shortVersionedName:  ezarcher Linux
-    bootloaderEntryName: ezarcher
-    productUrl:          https://sourceforge.net/projects/ezarch/
+    shortProductName:    onimai-os
+    version:             2023
+    shortVersion:        2023
+    versionedName:       minato
+    shortVersionedName:  minato
+    bootloaderEntryName: onimai-os
+    productUrl:          https://git.arlcrow.site/Onimai-OS
 #   supportUrl:          https://sourceforge.net/projects/ezarch/
 #   knownIssuesUrl:      https://sourceforge.net/projects/ezarch/
 #   releaseNotesUrl:     https://sourceforge.net/projects/ezarch/
