@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="onimai-gnome"
-iso_label="ONIMAI-GNOME_$(date +%y%m%d)"
-iso_publisher="Onimai OS <https://onimai.ru>"
+iso_name="onimai-minato-gnome"
+iso_label="ONIMAI-MINATO-GNOME_$(date +%y%m%d)"
+iso_publisher="Onimai OS Minato <https://onimai.ru>"
 iso_application="Onimai-OS DVD"
 iso_version="$(date +%y%m%d)"
 install_dir="arch"
