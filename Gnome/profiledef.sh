@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name="onimai-os"
-iso_label="Onimai-OS_$(date +%y%m%d)"
-iso_publisher="Onimai OS <https://onimai.ru>"
+iso_label="Onimai-OS_Minato"
+iso_publisher="Onimai OS <onimai.ru>"
 iso_application="Onimai OS"
-iso_version="$(date +%y%m%d)"
+iso_version="minato_beta"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'
