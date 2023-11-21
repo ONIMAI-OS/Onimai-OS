@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="onimai-os"
-iso_label="Onimai-OS_Minato"
-iso_publisher="Onimai OS <onimai.ru>"
-iso_application="Onimai OS"
-iso_version="minato_beta"
+iso_name="onimai-gnome"
+iso_label="ONIMAI-GNOME_$(date +%y%m%d)"
+iso_publisher="Onimai OS <https://onimai.ru>"
+iso_application="Onimai-OS DVD"
+iso_version="$(date +%y%m%d)"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'
