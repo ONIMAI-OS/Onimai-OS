@@ -170,7 +170,7 @@ fun StringToInteger (str) {
 Window.SetBackgroundTopColor (0.00, 0.00, 0.00);     # Nice colour on top of the screen fading to
 Window.SetBackgroundBottomColor (0.00, 0.00, 0.00);  # an equally nice colour on the bottom
 
-logo.image = Image ("nyarch_logo.png"); # "special://logo" is a special keyword which finds the logo image
+logo.image = Image ("onimai_logo.png"); # "special://logo" is a special keyword which finds the logo image
 logo.sprite = Sprite ();
 logo.sprite.SetImage (logo.image);
 logo.width = logo.image.GetWidth ();

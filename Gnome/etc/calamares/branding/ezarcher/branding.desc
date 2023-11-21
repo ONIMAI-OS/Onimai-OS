@@ -123,12 +123,12 @@ navigation: widget
 # are set to "true" (they can also be overridden).
 strings:
     productName:         "@{NAME}"
-    shortProductName:    nyarch
+    shortProductName:    onimai-os
     version:             23.11
     shortVersion:        23.11
-    versionedName:       Nyarch Linux
-    shortVersionedName:  Nyarch Linux
-    bootloaderEntryName: nyarch
+    versionedName:       Onimai OS Minato
+    shortVersionedName:  Minato
+    bootloaderEntryName: onimai-os
     productUrl:          https://nyarchlinux.moe
 #   supportUrl:          https://sourceforge.net/projects/ezarch/
 #   knownIssuesUrl:      https://sourceforge.net/projects/ezarch/

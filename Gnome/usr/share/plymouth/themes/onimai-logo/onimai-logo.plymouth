@@ -4,5 +4,5 @@ Description=A theme that features a blank background with a logo.
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/nyarch-logo
-ScriptFile=/usr/share/plymouth/themes/nyarch-logo/nyarch-logo.script
+ImageDir=/usr/share/plymouth/themes/onimai-logo
+ScriptFile=/usr/share/plymouth/themes/onimai-logo/onimai-logo.script
