@@ -15,5 +15,5 @@
 
 ## Is it safe to use?
 It is strongly suggested to <b>do not use this Linux distribution as daily drive</b>, since it is not made by a team of experts and there are way better distros out there. <br />
-If you want a similar configuration to what our distro offers out of the box, you can just see the main changes we have done to a standard Gnome ezarcher install in CHANGES.md, and we will also provide a script that just applies the main changes to almost any Linux distribution with Gnome installed.<br />
+<br />
 If you want to use it anyways, <b>Onimai OS is nothing more than a heavily bloated Arch Linux install script</b>, it relies on Arch Linux standard repositories, so for normal packages you will receive frequent updates that do not depend on us, however, you may encounter issues with Gnome Extensions on Gnome updates.
