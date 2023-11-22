@@ -27,7 +27,7 @@ MYUSRPASSWD="live"
 RTPASSWD="toor"
 # Pick a root password
 
-MYHOSTNM="nyarchlinux"
+MYHOSTNM="onimai-os"
 # Pick a hostname for the machine
 
 # ----------------------------------------
