@@ -1,36 +1,19 @@
-# NyarchLinux
+# Onimai OS Minato
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/67018178/219306815-448eea25-d0f3-4512-8d4f-f8167e21841a.png" width="300px" style="margin:auto;"/>
+   <img src="https://github.com/ONIMAI-OS/.github/blob/main/onimai_logo.png?raw=true" width="500px" style="margin:auto;"/>
 
-![](https://img.shields.io/github/v/release/NyarchLinux/NyarchLinux?include_prereleases&label=Nyarch%20Release&style=for-the-badge)
-![](https://img.shields.io/github/stars/nyarchlinux/nyarchlinux?style=for-the-badge)
-![](https://img.shields.io/github/license/nyarchlinux/nyarchlinux?color=green&style=for-the-badge)
-[![](https://img.shields.io/badge/Website-nyarchlinux.moe-%23e32b6b?style=for-the-badge&logoColor=C689C6)](https://nyarchlinux.moe)
-   <h3><b>Nyarch Linux</b> is a Linux distribution <b>made for weebs</b>, based on ArchLinux and EzArcher.</h3><br />
+###
+<div align="center">
 
-</div>
+![](https://img.shields.io/badge/Onimai%20OS%20Minato-Alpha-white?style=for-the-badge&logoColor=red)
+![](https://img.shields.io/github/license/onimai-os/onimai-os?color=cyan&style=for-the-badge)
+[![](https://img.shields.io/badge/Telegram-onimai.ru-pink?style=for-the-badge&logoColor=blue)](https://onimai.ru)
+
+   <h3><b>Onimai OS</b> is a Linux distribution <b>made for onimai fans</b>, based on Nyarch Linux and EzArcher.</h3><br />
+
+<div align="left">
 
 ## Is it safe to use?
 It is strongly suggested to <b>do not use this Linux distribution as daily drive</b>, since it is not made by a team of experts and there are way better distros out there. <br />
 If you want a similar configuration to what our distro offers out of the box, you can just see the main changes we have done to a standard Gnome ezarcher install in CHANGES.md, and we will also provide a script that just applies the main changes to almost any Linux distribution with Gnome installed.<br />
-If you want to use it anyways, <b>Nyarch is nothing more than a heavily bloated Arch Linux install script</b>, it relies on Arch Linux standard repositories, so for normal packages you will receive frequent updates that do not depend on us, however, you may encounter issues with Gnome Extensions on Gnome updates, specially with NyarcMenu.
-
-## Contributing
-If you want to contribute to the development of this distribution, please take a look at [CONTRIBUTING.md](https://github.com/NyarchLinux/NyarchLinux/blob/main/CONTRIBUTING.md).
-
-## Will you make other DEs spins?
-
-### Why Gnome?
-We opted for Gnome as first spin because of these reasons:
-- Gnome has very well curated animations
-- GTK applications and Gnome itself are very touch friendly and laptop friendly, these devices are often used to consume multimedia content, so anime, mangas, VNs, and LNs.
-- Gnome is very elegant and modern, but very customizable at the same time, giving a good image of linux desktop.
-- GTK applications look very coherent between them
-
-However, there are also some cons:
-- It is very different from what Windows has used users to, making it look complex for some (partially solved by Nyarch Customize)
-- Gnome extensions often get broken after Gnome updates (it is a pretty big issue considering the rolling release nature of the distribution)
-- Non GTK applications don't look coherent at all
-### Will there be other DEs spins?
-At the moment we have no plans to make other DEs spins, however, we are not at all against it, and <b>we are happy to accept contributions</b>. Please note that we want to make the different spins as coherent as possible, so applications have to follow their desktop philosophy if possible. <br />
-For example, in the Gnome spin Komikku, a GTK application to read mangas, is preinstalled. In a KDE Plasma spin, if there is a similar application written using QT, it should be included.
+If you want to use it anyways, <b>Onimai OS is nothing more than a heavily bloated Arch Linux install script</b>, it relies on Arch Linux standard repositories, so for normal packages you will receive frequent updates that do not depend on us, however, you may encounter issues with Gnome Extensions on Gnome updates.
