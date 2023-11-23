@@ -17,10 +17,10 @@ Windows Registry Editor Version 5.00
 "Colour13"="222,152,112"  ; ANSI Yellow Bold
 "Colour14"="148,128,130"  ; ANSI Blue
 "Colour15"="148,128,130"  ; ANSI Blue Bold
-"Colour16"="177,150,143"  ; ANSI Magenta
-"Colour17"="177,150,143"  ; ANSI Magenta Bold
-"Colour18"="231,175,145"  ; ANSI Cyan
-"Colour19"="231,175,145"  ; ANSI Cyan Bold
+"Colour16"="255,192,203"  ; ANSI Magenta
+"Colour17"="255,192,203"  ; ANSI Magenta Bold
+"Colour18"="145,201,231"  ; ANSI Cyan
+"Colour19"="145,201,231"  ; ANSI Cyan Bold
 "Colour20"="242,224,204"  ; ANSI White
 "Colour21"="242,224,204"  ; ANSI White Bold
 

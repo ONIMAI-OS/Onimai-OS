@@ -35,16 +35,16 @@ Color=148,128,130
 Color=148,128,130
 
 [Color5]
-Color=177,150,143
+Color=255,192,203
 
 [Color5Intense]
-Color=177,150,143
+Color=255,192,203
 
 [Color6]
-Color=231,175,145
+Color=145,201,231
 
 [Color6Intense]
-Color=231,175,145
+Color=145,201,1231
 
 [Color7]
 Color=242,224,204

@@ -129,7 +129,7 @@ strings:
     versionedName:       Onimai OS Minato
     shortVersionedName:  Minato
     bootloaderEntryName: onimai-os
-    productUrl:          https://nyarchlinux.moe
+    productUrl:          https://onimai.ru
 #   supportUrl:          https://sourceforge.net/projects/ezarch/
 #   knownIssuesUrl:      https://sourceforge.net/projects/ezarch/
 #   releaseNotesUrl:     https://sourceforge.net/projects/ezarch/
@@ -181,7 +181,7 @@ images:
 # branding component also ships a stylesheet.qss. Then they are
 # the corresponding CSS attributes of #sidebarApp.
 style:
-   sidebarBackground:    "#592C28"
+   sidebarBackground:    "#b2868e"
    sidebarText:          "#FFFFFF"
    sidebarTextSelect:    "#171925"
    sidebarTextHighlight: "#A6382E"
