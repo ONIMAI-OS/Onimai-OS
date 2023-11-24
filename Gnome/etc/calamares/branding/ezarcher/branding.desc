@@ -124,15 +124,15 @@ navigation: widget
 strings:
     productName:         "@{NAME}"
     shortProductName:    onimai-os
-    version:             23.11
-    shortVersion:        23.11
+    version:             Alpha 0.6
+    shortVersion:        Alpha 0.6
     versionedName:       Onimai OS Minato
     shortVersionedName:  Minato
     bootloaderEntryName: onimai-os
     productUrl:          https://onimai.ru
-#   supportUrl:          https://sourceforge.net/projects/ezarch/
-#   knownIssuesUrl:      https://sourceforge.net/projects/ezarch/
-#   releaseNotesUrl:     https://sourceforge.net/projects/ezarch/
+    supportUrl:          https://chat.onimai.ru
+    knownIssuesUrl:      https://git.arlcrow.site/Onimai-OS/Onimai-OS/issues
+    releaseNotesUrl:     https://git.arlcrow.site/Onimai-OS/Onimai-OS/releases
 #   donateUrl:           https://sourceforge.net/projects/ezarch/
 
 # These images are loaded from the branding module directory.
@@ -166,7 +166,7 @@ images:
     # productBanner:       "banner.png"
     productIcon:         "squid.png"
     productLogo:         "logo.png"
-    #productWallpaper:    "wallpaper.png"
+    productWallpaper:    "wallpaper.png"
     productWelcome:      "welcome.png"
 
 # Colors for text and background components.
@@ -183,8 +183,8 @@ images:
 style:
    sidebarBackground:    "#b2868e"
    sidebarText:          "#FFFFFF"
-   sidebarTextSelect:    "#171925"
-   sidebarTextHighlight: "#A6382E"
+   sidebarTextSelect:    "#daafc6"
+   sidebarTextHighlight: "#ead1dc"
 
 ### SLIDESHOW
 #
