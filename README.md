@@ -1,4 +1,4 @@
-# Onimai OS Minato
+# THE REPOSITORY HAS BEEN MOVED TO https://git.onimai.ru
 <div align="center">
    <img src="https://github.com/ONIMAI-OS/.github/blob/main/onimai_logo.png?raw=true" width="500px" style="margin:auto;"/>
 
